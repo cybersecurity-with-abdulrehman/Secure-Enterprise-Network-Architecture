@@ -1,6 +1,6 @@
 # 🌐 Secure Enterprise Network Architecture Blueprint
 
-**Author:** Abdul Rehman Rashid | Network & Information Security Engineer
+**Author:** Abdul Rehman | Network & Information Security Engineer
 
 ## 📌 Project Overview
 This repository contains a production-ready, highly available network architecture designed for modern corporate infrastructures. The blueprint emphasizes absolute network redundancy, strict security segmentation (VLANs), and firewalled edge perimeters to ensure 100% operational uptime and zero-trust internal security.
