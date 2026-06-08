@@ -1,6 +1,6 @@
 # 🌐 Secure Enterprise Network Architecture Blueprint
 
-**Author:** Abdul Rehman Rashid | Network & Information Security Engineer
+**Author:** Abdul Rehman | Network & Information Security Engineer
 
 ## 📌 What is this?
 This repository showcases a production-ready corporate network infrastructure blueprint designed for high availability, zero-downtime redundancy, and strict security perimeter segmentation. The architecture is fully compatible with enterprise environments utilizing MikroTik, Cisco, and corporate firewall devices.
